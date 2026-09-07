@@ -22,7 +22,8 @@ Primera aplicacion Node.js dockerizada.
 Deberias ver el mensaje: **Hello, Docker!**
 
 ## Usuario de DockerHub
-<!-- Coloca aqui tu usuario de DockerHub -->
+
+juanital948
 
 ## Evidencias
 Ver carpeta documento de word con capturas de:
