@@ -25,7 +25,7 @@ Deberias ver el mensaje: **Hello, Docker!**
 <!-- Coloca aqui tu usuario de DockerHub -->
 
 ## Evidencias
-Ver carpeta `/evidencias` con capturas de:
+Ver carpeta documento de word con capturas de:
 - Terminal ejecutando los comandos
 - Docker Desktop instalado y corriendo
 - Navegador mostrando "Hello, Docker!"
