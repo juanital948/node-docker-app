@@ -26,7 +26,7 @@ Deberias ver el mensaje: **Hello, Docker!**
 juanital948
 
 ## Evidencias
-Ver carpeta documento de word con capturas de:
-- Terminal ejecutando los comandos
-- Docker Desktop instalado y corriendo
-- Navegador mostrando "Hello, Docker!"
+Ver archivo `evidencias.pdf` con capturas de:
+ - Terminal ejecutando los comandos
+ - Docker Desktop instalado y corriendo
+ - Navegador mostrando "Hello, Docker!"
